@@ -1,6 +1,13 @@
 # Cockpit BLE 
+|      |      |     |
+|:------|:------:|-----:|
+| ![Cockpit BLE](/cockpit_ble.png)  | ![Cockpit BLE](/cockpit_ble_wood.png)|![Cockpit BLE](/cockpit_ble_blue.png)   |
+|<sup>Photo: Ahmet Avci </sup>|<sup>Photo: Özkan Çelik </sup>|<sup>Photo: Özkan Çelik </sup>|
 
-![Cockpit BLE](/cockpit_ble.png)
+
+
+
+
 
 ## Features
 - USB C charging ports with ESD protection on data and power lines
@@ -81,6 +88,3 @@
 - [https://github.com/ozkan/Cockpit_BLE](https://github.com/ozkan/Cockpit_BLE)
 
 
-
-## PCB 
-![Cockpit BLE](/cockpit_ble_pcb.jpg)
